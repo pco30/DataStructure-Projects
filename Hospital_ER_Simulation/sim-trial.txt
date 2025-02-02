@@ -1,0 +1,40 @@
+Emergency Queue: Patient_32 
+
+Regular Queue: Patient_5 Patient_6 Patient_9 Patient_10 Patient_11 Patient_12 Patient_15 Patient_16 Patient_19 Patient_20 Patient_25 Patient_26 Patient_27 Patient_28 Patient_29 Patient_30 Patient_33 Patient_34 Patient_35 Patient_36 
+
+Available Nurses: 
+
+Available Providers: P2 P1 P3 
+
+Available Administrative Assistants: 
+
+Room1: Patient: Patient_23 Staff: N3 
+Room2: Patient: Patient_24 Staff: N2 
+Room3: Patient: Patient_31 Staff: N1 
+
+Checkout Queue: Patient_2 Patient_3 Patient_7 Patient_8 Patient_4 Patient_13 Patient_14 Patient_17 Patient_18 Patient_21 Patient_22 
+
+
+Emergency Queue has 1 patient(s)
+Regular Queue has 20 patient(s)
+Total Patients Served: 4
+Total Wait Time: 117 seconds
+Average Wait Time: 29.25 seconds
+
+Nurse Work Time
+N3: 22 seconds
+N2: 21 seconds
+N1: 20 seconds
+
+Provider Work Time
+P2: 29 seconds
+P1: 25 seconds
+P3: 19 seconds
+
+Admin Assistant Worked Time:
+8 seconds
+
+Room Use Time
+Room1: 45 seconds
+Room2: 45 seconds
+Room3: 46 seconds
